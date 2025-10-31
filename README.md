@@ -16,47 +16,53 @@ Here are some ideas to get you started:
 -->
 <!-- Logo central -->
 <!-- LOGO CENTRAL -->
+<!-- HERO 3D (GIF) -->
 <p align="center">
-  <img src="https://zaon.com.br/wp-content/uploads/2021/02/cropped-ZAON_Fav_Icon-192x192.png" alt="ZAON logo" width="160">
+  <img src="assets/zaon-3d-hero.gif" alt="ZAON 3D" width="800">
 </p>
 
-<h1 align="center">⚡ ZAON — Energizando Marcas</h1>
-
+<!-- LOGO (PNG) -->
 <p align="center">
-  Comunicação • Tecnologia • Estratégia  
-  <br>
-  <a href="https://zaon.com.br" target="_blank">🌐 zaon.com.br</a>  
-  <br>
-  ✉️ <a href="mailto:zaon@zaon.com.br">zaon@zaon.com.br</a>  
-  <br>
-  📍 Campinas/SP — Brasil  
+  <img src="assets/zaon-logo.png" alt="ZAON logo" width="120">
 </p>
 
----
+<h1 align="center">ZAON</h1>
 
+<!-- “HUD” estilo game + LED -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Brand%20Power%20ON-%2300C4FF?style=for-the-badge&logo=thunderbird&logoColor=white">
-  <img src="https://img.shields.io/badge/Made%20in-Brazil-green?style=for-the-badge&logo=brave">
-  <img src="https://img.shields.io/badge/Design%20Thinking-Active-blueviolet?style=for-the-badge&logo=figma">
+  <img src="assets/led-blink.gif" alt="LED" width="12" style="vertical-align:middle;">
+  <span style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">
+    STATUS: ONLINE • BUILD v1.0 • POWER: 100%
+  </span>
 </p>
 
 ---
 
-## ⚡ Sobre a ZAON
+<p align="center">
+  <span style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">
+    ░ PRESS START ░
+  </span>
+</p>
 
-> “A energia que move ideias, conecta pessoas e transforma marcas em experiências.”
-
-A **ZAON** é uma força criativa que conecta **comunicação, tecnologia e estratégia**.  
-Nasce do equilíbrio entre lógica e emoção — onde **o design encontra o código**,  
-e cada projeto é uma extensão daquilo que acreditamos:  
-**impactar o agora e construir o futuro**.
+<p align="center">
+  <a href="https://zaon.com.br"><img src="assets/start-button.gif" alt="START" width="160"></a>
+</p>
 
 ---
 
-## 🧬 DNA ZAON
+## ⚡
+A **ZAON** é energia criativa — identidade, tecnologia e estética em alta voltagem.
 
-```text
-⚙️  Estratégia que impulsiona.
-💡  Criatividade que inspira.
-🌎  Tecnologia que conecta.
-🔥  Energia que transforma.
+---
+
+### Contato
+🌐 **zaon.com.br** • ✉️ **zaon@zaon.com.br** • 📍 Campinas/SP — Brasil  
+☎️ +55 (19) 3294-0274 • 📱 +55 (19) 98350-6678
+
+---
+
+<p align="center">
+  <img src="assets/scanline.gif" alt="scanline" width="800"><br>
+  <i>© ZAON — Energizando marcas</i>
+</p>
+
