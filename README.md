@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Logo central -->
 <p align="center">
-  <img src="assets/zaon-logo.png" alt="ZAON logo" width="200">
+  <img src="https://zaon.com.br/wp-content/uploads/2021/02/cropped-ZAON_Fav_Icon-192x192.png" alt="ZAON logo" width="200">
 </p>
 
 <h1 align="center">⚡ ZAON — Energizando Marcas</h1>
@@ -48,5 +48,5 @@ Nosso propósito é **energizar marcas** e transformar ideias em experiências q
 ---
 
 <p align="center">
-  <i>© ZAON Marketing Cloud — Energizando marcas com estratégia, design e tecnologia ⚡</i>
+  <i>© ZAON — Energizando marcas</i>
 </p>
