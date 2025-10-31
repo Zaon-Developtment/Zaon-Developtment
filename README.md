@@ -21,17 +21,18 @@
 
 > “A energia que move ideias, conecta pessoas e transforma marcas em experiências.”
 
-A **ZAON** é uma força criativa que conecta comunicação, tecnologia e estratégia. Nosso propósito é **energizar marcas** e transformar ideias em experiências que geram impacto e resultado..
+A **ZAON** é uma força criativa que conecta comunicação, tecnologia e estratégia. 
+Nosso propósito é **energizar marcas** e transformar ideias em experiências que geram impacto e resultado..
 
 ---
 
 ## 🧬 DNA ZAON
 
-```text
 ⚙️  Estratégia que impulsiona.
 💡  Criatividade que inspira.
 🌎  Tecnologia que conecta.
 🔥  Energia que transforma.
+```text
 -----------------------------------
 ███████╗ █████╗  ██████╗ ███╗   ██╗
 ╚══███╔╝██╔══██╗██╔═══██║████╗  ██║
@@ -40,3 +41,5 @@ A **ZAON** é uma força criativa que conecta comunicação, tecnologia e estrat
 ███████╗██║  ██║╚██████╔╝██║ ╚████║
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 -----------------------------------
+```
+<p align="center"> <i>© ZAON — Energizando marcas</i> </p>
