@@ -42,4 +42,4 @@ Nosso propósito é **energizar marcas** e transformar ideias em experiências q
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 -----------------------------------
 ```
-<p align="center"> <i>© Energizado ⚡ por ZAON</i> </p>
+<p align="center"> <i>⚡ Energizado por ZAON</i> </p>
