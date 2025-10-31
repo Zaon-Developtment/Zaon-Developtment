@@ -5,7 +5,7 @@
 
 <h1 align="center">⚡ ZAON — Energizando Marcas</h1>
 
-<p align="center">
+<p>
   Comunicação • Tecnologia • Estratégia  
   <br>
   <a href="https://zaon.com.br" target="_blank">🌐 zaon.com.br</a>  
